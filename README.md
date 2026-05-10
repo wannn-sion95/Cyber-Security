@@ -117,6 +117,7 @@ cybersecurity-learning/
 | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) | Web Proxy | 📋 Direncanakan |
 | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | Exploitation Framework | 📋 Direncanakan |
 | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) | OS / Distro | 🔄 Belajar |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-557C94?style=flat-square&logo=ubuntu&logoColor=white) | OS / Distro | 🔄 Belajar |
 
 ---
 
